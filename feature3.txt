@@ -1,7 +1,11 @@
 this feature is from developer3
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 sab theek kar liya
+=======
+added some changes
+>>>>>>> d998d37 (added some new chnages)
 =======
 added some changes
 >>>>>>> d998d37 (added some new chnages)
